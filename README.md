@@ -18,6 +18,11 @@ The following NPM dependences are required to be installed for the use of this p
 
 Express, Sequelize, Mysql12, Dotenv 
 
+Here is a two parted video that demonstrates the usability of the video:
+
+[Part 1]: https://drive.google.com/file/d/1GagOES1ReVB2k8EA12xD01Ll-uaPRv_B/view
+[Part 2]: https://drive.google.com/file/d/1GagOES1ReVB2k8EA12xD01Ll-uaPRv_B/view
+
 ## Usage
 Initialize the program by going to the root file and typing "npm run start" into the terminal to initialize the server. Next, to seed the pre-existing data, ensure that the MySql database is running in the background, then typing "npm run seed" into the terminal. Since this is a backend application, Insomnia or Postman have to be used to establish communication to the backend to modify the e-commerce data through CRUD operations. 
 
